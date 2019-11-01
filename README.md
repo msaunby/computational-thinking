@@ -11,7 +11,7 @@ Vienna Gödel Lecture 2016 with Jeannette Wing, Corporate Vice President, Micros
 In 2016 Jeannette Wing reflected on her 2006 call to computer science professors to teach “Ways to Think Like a Computer Scientist”
 <https://www.microsoft.com/en-us/research/blog/computational-thinking-10-years-later/>
 
-## Computational thinking is problem sovling (and designing systems)
+## Computational thinking is problem solving, and system design
 
 What sorts of problems can computational thinking solve?
 
