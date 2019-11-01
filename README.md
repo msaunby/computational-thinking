@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Computational Thinking
 
-You can use the [editor on GitHub](https://github.com/msaunby/computational-thinking/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YVEUOHw3Qb8?start=876&stop=1115" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Markdown
 
