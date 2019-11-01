@@ -18,3 +18,11 @@ How we came to have PCs, computer games, and professional programmers
 ## Why we have programming languages
 
 
+
+## Problem decomposition (and synthesis)
+
+Smeaton's tower
+
+<https://www.trinityhouse.co.uk/lighthouses-and-lightvessels/eddystone-lighthouse>
+
+<http://www.engineering-timelines.com/scripts/engineeringItem.asp?id=67>
