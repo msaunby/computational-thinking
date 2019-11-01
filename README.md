@@ -23,4 +23,10 @@ Paper prototyping
 
 Google's Mariam Shaikh and Melissa Powel talk about sketching and paper prototyping.
 
+Testing at Netflix
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rgfww8tLM0A?start=12&stop=579" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Netflix's Nora Jones explains chaos engineering
+
 ## Abstractions, models, theories, algorithms, and simulations
