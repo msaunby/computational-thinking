@@ -1,35 +1,13 @@
-## Computational Thinking
+# Computational Thinking
+
+## What is Computational Thinking?
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YVEUOHw3Qb8?start=876&stop=1115" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Markdown
+Vienna Gödel Lecture 2016 with Jeannette Wing, Corporate Vice President, Microsoft Research
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Computational Thinking is problem sovling (and designing systems)
 
-```markdown
-Syntax highlighted code block
+What sorts of problems can computational thinking solve?
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/msaunby/computational-thinking/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Abstractions, models, theories, algorithms, and simulations
