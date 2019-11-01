@@ -2,7 +2,7 @@
 
 ## What is Computational thinking?
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YVEUOHw3Qb8?start=876&stop=1115" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YVEUOHw3Qb8?start=876&end=1115" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Vienna Gödel Lecture 2016 with Jeannette Wing, Corporate Vice President, Microsoft Research
 
@@ -19,13 +19,13 @@ What sorts of problems can computational thinking solve?
 
 Paper prototyping
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMjozqJS44M?start=73&stop=171" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMjozqJS44M?start=73&end=171" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Google's Mariam Shaikh and Melissa Powel talk about sketching and paper prototyping.
 
 Testing at Netflix
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rgfww8tLM0A?start=12&stop=579" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rgfww8tLM0A?start=12&end=579" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Netflix's Nora Jones explains chaos engineering
 
