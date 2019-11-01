@@ -33,3 +33,8 @@ Netflix's Nora Jones explains chaos engineering
 
 Computer programmers, and therefore computer scientists, use models (or abstractions) so much that aspects of these models are a part of their everyday language.  Programmers use the term "layer" to refer to a part of a software system, because these systems are conceptually formed from layers of software, rather like courses of bricks in a wall.  This then leads to terms like "stack" meaning multiple layers of software, and even to programmers refering to themselves as "full stack", meaning they know how to program all the layers.
 
+Who’s worth more, a Frontend, Backend or Fullstack web developer?
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qj2hJkqaA80" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+https://realtoughcandy.com/
