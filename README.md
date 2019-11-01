@@ -15,4 +15,12 @@ In 2016 Jeannette Wing reflected on her 2006 call to computer science professors
 
 What sorts of problems can computational thinking solve?
 
+### Real examples of how computer systems are designed
+
+Paper prototyping
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMjozqJS44M?start=73&stop=171" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Google's Mariam Shaikh and Melissa Powel talk about sketching and paper prototyping.
+
 ## Abstractions, models, theories, algorithms, and simulations
