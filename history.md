@@ -26,3 +26,5 @@ Smeaton's tower
 <https://www.trinityhouse.co.uk/lighthouses-and-lightvessels/eddystone-lighthouse>
 
 <http://www.engineering-timelines.com/scripts/engineeringItem.asp?id=67>
+
+<https://www.ice.org.uk/what-is-civil-engineering/what-do-civil-engineers-do/bell-rock-lighthouse-and-smeatons-tower>
