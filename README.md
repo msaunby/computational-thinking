@@ -4,6 +4,8 @@
 
 I'm [Michael Saunby](https://http://www.saunby.net/about/), and in 2019 I helped deliver the IoC Summer School at the University of Exeter, where we introduced 30 undergraduate and post-grad students from non-STEM subjects to programming, data science and machine learning. Subsequently I was asked to give a lecture on programming to student teachers, again from non-STEM backgrounds.  The material on this website is intended to support that lecture.
 
+Note: I've selected segments of the YouTube videos on this page to show in my lecture.  I recommend you watch these clips, but I also encourage watching the entire videos when you have a chance.  This material is not intended for teaching, rather it is to help understand how people working with computer software understand their relationship with software.  Some of the language they use may be unfamiliar, perhaps even impenetrable, please don't worry about that, it's not my intention these clips be fully understood, only that they give an insight into software development and the people who do it.
+
 <!-- 
 This site is best viewed in GitHub pages rather than directly in GitHub
 Follow this link  https://msaunby.github.io/computational-thinking/
@@ -26,13 +28,17 @@ What sorts of problems can computational thinking solve? Our first thoughts on t
 
 ### Real examples of how computer systems are designed
 
-Paper prototyping
+1. Paper prototyping
+
+This tutorial shows how a skill familiar to everyone, sketching, is used in a disciplined way to design software.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JMjozqJS44M?start=73&end=171" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Google's Mariam Shaikh and Melissa Powel talk about sketching and paper prototyping.
 
-Testing at Netflix
+1. Testing at Netflix
+
+This talk is very technical, but delivered really well. It's a great example of how people working with software embrace difficult problems and find new ways of using the knowledge they have to create even more knowledge about the complex computer systems they and their colleagues are building. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rgfww8tLM0A?start=12&end=579" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
