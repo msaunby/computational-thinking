@@ -56,4 +56,4 @@ Many young programmers (coders, developers, software engineers) are teaching the
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qj2hJkqaA80" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-https://realtoughcandy.com/
+[RealToughCandy](https://www.youtube.com/channel/UC54NcJvLCvM2CNaBjd5j6HA)
