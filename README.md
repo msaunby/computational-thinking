@@ -1,5 +1,9 @@
 # [Computational Thinking](https://msaunby.github.io/computational-thinking/)
 
+## Purpose of this website
+
+I'm [Michael Saunby](https://http://www.saunby.net/about/), and in 2019 I helped deliver the IoC Summer School at the University of Exeter, where we introduced 30 undergraduate and post-grad students from non-STEM subjects to programming, data science and machine learning. Subsequently I was asked to give a lecture on programming to student teachers, again from non-STEM backgrounds.  The material on this website is intended to support that lecture.
+
 <!-- 
 This site is best viewed in GitHub pages rather than directly in GitHub
 Follow this link  https://msaunby.github.io/computational-thinking/
