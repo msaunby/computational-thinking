@@ -22,7 +22,7 @@ In 2016 Jeannette Wing reflected on her 2006 call to computer science professors
 
 ## Computational thinking is problem solving, and system design
 
-What sorts of problems can computational thinking solve?
+What sorts of problems can computational thinking solve? Our first thoughts on this might be to think of computers being used to solve really difficult problems in science and engineering, and that certainly happens, my own background is in developing software for analysing satellite imagery and understanding climate change, however there are plenty of tricky problems to be solved with computers much closer to home.  Here are a couple of examples from some household names - Google and Netflix.
 
 ### Real examples of how computer systems are designed
 
