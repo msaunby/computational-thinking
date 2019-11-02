@@ -52,7 +52,7 @@ Computer programmers, and computer scientists, use models so much that aspects o
 
 #### Who’s worth more, a Frontend, Backend or Fullstack web developer?
 
-Many young programmers (coders, developers, software engineers) are teaching themselves and each other. They use blogs, video, podcasts, forums, etc. to share what they are learning.  Here's an example of how they speak to each other.
+Many young programmers (coders, developers, software engineers) are teaching themselves and each other. They use blogs, video, podcasts, forums, etc. to share what they are learning.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qj2hJkqaA80" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
