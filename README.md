@@ -1,5 +1,10 @@
 # Computational Thinking
 
+<!-- 
+This site is best viewed in GitHub pages rather than directly in GitHub
+Follow this link  https://msaunby.github.io/computational-thinking/
+-->
+
 ## What is Computational thinking?
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YVEUOHw3Qb8?start=876&end=1115" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
