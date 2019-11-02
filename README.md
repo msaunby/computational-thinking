@@ -28,17 +28,17 @@ What sorts of problems can computational thinking solve? Our first thoughts on t
 
 ### Real examples of how computer systems are designed
 
-1. Paper prototyping
+#### Paper prototyping
 
-This tutorial shows how a skill familiar to everyone, sketching, is used in a disciplined way to design software.
+  This tutorial shows how a skill familiar to everyone, sketching, is used in a disciplined way to design software.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JMjozqJS44M?start=73&end=171" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Google's Mariam Shaikh and Melissa Powel talk about sketching and paper prototyping.
 
-1. Testing at Netflix
+#### Testing at Netflix
 
-This talk is very technical, but delivered really well. It's a great example of how people working with software embrace difficult problems and find new ways of using the knowledge they have to create even more knowledge about the complex computer systems they and their colleagues are building. 
+ This talk is very technical, but delivered really well. It's a great example of how people working with software embrace difficult problems and find new ways of using the knowledge they have to create even more knowledge about the complex computer systems they and their colleagues are building. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rgfww8tLM0A?start=12&end=579" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -46,9 +46,13 @@ Netflix's Nora Jones explains chaos engineering
 
 ## Abstractions, models, theories, algorithms, and simulations
 
-Computer programmers, and computer scientists, use models (or abstractions) so much that aspects of these models are a part of their everyday language.  Programmers use the term "layer" to refer to a part of a software system, because these systems are conceptually formed from layers of software, rather like courses of bricks in a wall.  This then leads to terms like "stack" meaning multiple layers of software, and even to programmers refering to themselves as "full stack", meaning they know how to program all the layers.
+All these terms were mentioned by Jeannette Wing in her talk on Computational thinking.  I'll not define these terms here, in any case they tend to overlap, and there are even more terms that computer scientists and engineers use - patterns, objects, frameworks, collections, data types, all immediately come to my mind.
 
-Who’s worth more, a Frontend, Backend or Fullstack web developer?
+Computer programmers, and computer scientists, use models so much that aspects of these models are a part of their everyday language.  For example, programmers use the term "layer" to refer to a part of a software system, because these systems are conceptually formed from layers of software, rather like courses of bricks in a wall.  This then leads to terms like "stack" meaning multiple layers of software, and even to programmers referring to themselves as "full stack", meaning they know how to program all the layers.
+
+#### Who’s worth more, a Frontend, Backend or Fullstack web developer?
+
+Many young programmers (coders, developers, software engineers) are teaching themselves and each other. They use blogs, video, podcasts, forums, etc. to share what they are learning.  Here's an example of how they speak to each other.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qj2hJkqaA80" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
