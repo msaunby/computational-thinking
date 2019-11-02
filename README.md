@@ -1,4 +1,4 @@
-# Computational Thinking
+# [Computational Thinking](https://msaunby.github.io/computational-thinking/)
 
 <!-- 
 This site is best viewed in GitHub pages rather than directly in GitHub
